@@ -1,16 +1,14 @@
 ---
-title: Contact
+title: Контакты
 layout: contact
 bodyClass: page-contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Наше производство находится по адресу:
+452607, Российская Федерация, Республика Башкортостан, город Октябрьский, улица Фрунзе, 6.
 
-| Day       | Opening Hours   |
+| Дни      | Время работы производства  |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Понедельник - пятница | 8:30am - 5:00pm |
+| Суббота  | Выходной  |
+| Воскресенье  | Выходной |
