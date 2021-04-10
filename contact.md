@@ -8,7 +8,6 @@ bodyClass: page-contact
 Наше производство находится по адресу:
 452607, Российская Федерация, Республика Башкортостан, город Октябрьский, улица Фрунзе, 6.
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>API карт 2ГИС</title>
@@ -18,11 +17,11 @@ bodyClass: page-contact
 
             DG.then(function () {
                 map = DG.map('map', {
-                    center: [54.98, 82.89],
+                    center: [54.490230, 53.445142],
                     zoom: 13
                 });
 
-                DG.marker([54.98, 82.89]).addTo(map).bindPopup('Вы кликнули по мне!');
+                DG.marker([54.490230, 53.445142]).addTo(map).bindPopup('Завод ДНМ');
             });
         </script>
     </head>
