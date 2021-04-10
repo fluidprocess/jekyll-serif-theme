@@ -1,34 +1,23 @@
 ---
-title: "Mergers"
+title: "Моделирование"
 date: 2018-11-28T15:15:34+10:00
 featured: true
-weight: 4
+weight: 2
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Для проверки нестандартных и сложных теплообменных и фильтрующих аппаратов мы выполняем компьютерную симуляцию гидравлических сред и процесса теплопереноса.
 
-## Ne verba patulosque numen vix libet
+## Теплообменники кожухотрубчатые
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+В проверочных расчетах данного типа теплообменников учитываются следующие исходные данные:
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+1. Номинальные раходы жидких сред, их тип, тепмературные значения на входе и выходе
+2. Рабочее давление в системе, допустимые значения гидравлических потерь
+3. Устанавливаемые стандартами или заказчиком требования к материалам и конструкции частей аппарата
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Фильтры сетчатые
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
