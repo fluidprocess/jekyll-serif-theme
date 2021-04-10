@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Консалтинг",
+    "description": "Консультируем заказчиков по выбору наиболее подходящего технического решения.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Проектирование",
+    "description": "Выполняем расчет и рабочее проектирование аппаратов.",
     "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Производство",
+    "description": "Осущствляем контрактное мелкосерийное производство нестандарных аппаратов.",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
