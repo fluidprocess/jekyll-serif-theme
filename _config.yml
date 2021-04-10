@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Fluidprocess© ООО Завод ДНМ'
+title: 'Флюидпроцесс©, ООО Завод ДНМ'
 
 google_analytics_id: ""
 
@@ -20,7 +20,7 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif.netlify.app"
   meta_og_image: ""
-  meta_og_description: "Флюидпроцес - это разработка и производство теплообменных аппаратов и фильтров."
+  meta_og_description: "Флюидпроцесс - это разработка, производство и модернизация теплообменных аппаратов и фильтров."
   meta_twitter_card: "summary"
   meta_twitter_site: ""
   meta_twitter_creator: ""
