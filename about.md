@@ -5,22 +5,23 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Завод ДНМ производит и поставляет технологическое нефтепромысловое оборудование.
+Мы зарекомендовали себя на Российском рынке как надежные партнеры, своевременно поставляющие необходимое оборудование и запасные части высокого качества. 
+Основополагающими принципами работы завода являются:
+постоянное повышение качества, комплексная поставка оборудования в полном соответствии с требования заказчика, минимальные сроки поставки и гибкое ценообразование, позволяющее находить приемлемые цены на оборудование при заключении договоров на поставку.
 
-## Ne verba patulosque numen vix libet
+## Флюидпроцесс - наше направление разработки теплообменных и фильтрующих аппаратов.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+В настоящее время, основная масса небольших аппаратов для нефтегазовой промышленности РФ производятся согласно требованиям устаревших СТО, ТУ и РД.
+Не смотря на присутствие в отраслевых и руководящих документах отдельных положений схожих с требованиями международных стандаров, они тем не менее, не соответствуют современной международной практике.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+В направлении разработки мелкосерийных аппаратов, основными целями мы видим:
+
+1. Предлагать самые гибкие цены и сроки разработки нестандартных аппаратов на российском рынке
+2. Следовать максимальной унификации испльзуемых материалов и конструктивных решений с требованиями международных стандартов
+3. Добиваться эффективных массо-габаритных показателей аппаратов и затрат, с помощью автоматизации расчетов механик жидкостей и теплообмена
+4. Предоставлять наиболее полный перечень производственной и руководящей документации
+5. Обеспечивать сервисную и консультационную поддержку, для сопровождения изделий на всем жизненном цикле
 
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
