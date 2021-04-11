@@ -9,7 +9,7 @@ layout: service
 Для проверки нестандартных и сложных теплообменных и фильтрующих аппаратов мы выполняем компьютерную симуляцию гидравлических сред и процесса теплопереноса.
 
 ## Теплообменники кожухотрубчатые
-![horizontal cooler simulation](/images/horizontal-cooler-simulation.svg)
+![horizontal cooler simulation](/images/horizontal-nobg.png)
 
 В проверочных расчетах данного типа теплообменников учитываются следующие исходные данные:
 
@@ -20,7 +20,7 @@ layout: service
 
 
 ## Фильтры сетчатые
-![vertical filter simulation](/images/vertical-filter-simulation.svg)
+![vertical filter simulation](/images/Filter-nobg.png)
 
 В проверочных расчетах данного типа аппаратов учитываются следующие исходные данные:
 
