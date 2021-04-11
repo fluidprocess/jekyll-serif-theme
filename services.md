@@ -1,11 +1,11 @@
 ---
-title: Services
+title: Услуги
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/baw-horizontal.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Полный цикл работ от проектирования до монтажа 
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Мы предлагаем полный объем проектных работ по выбору технических решений, проектированию, производству и вводу в эксплуатацию теплообменных аппаратов и жидкостных фильтров.

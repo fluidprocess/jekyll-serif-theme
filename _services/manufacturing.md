@@ -20,12 +20,6 @@ layout: service
 Завод ДНМ имеет собственную производственную базу и штат опытных специалистов.
 Высокое качество производимой продукции подтверждается референциями у крупнейших компаний нефтегазовой отрасли, таких как: Лукойл, Роснефть, Славнефть, Самара-Нафта
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
 ## Испытания
 
 Стандартный перечень испытаний сосудов и аппаратов включает в себя:
