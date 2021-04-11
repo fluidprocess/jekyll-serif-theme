@@ -19,7 +19,7 @@ layout: service
 
 
 ## Фильтры сетчатые
-![vertical filter simulation](images/vertical-filter-simulation.svg)
+![vertical filter simulation](/images/vertical-filter-simulation.svg)
 В проверочных расчетах данного типа аппаратов учитываются следующие исходные данные:
 
 1. Вязкость среды, площадь фильтрации и пропускная способность
