@@ -1,12 +1,12 @@
 ---
-title: 'Robert Johnson'
+title: 'Выправляющий аппарат'
 date: 2018-12-20T13:44:23+10:00
 draft: false
-image: 'images/team/vince-fleming-613817-unsplash.jpg'
-jobtitle: 'Developer'
-linkedinurl: "https://www.linkedin.com/"
+image: 'images/team/vipramitel.png'
+jobtitle: 'Оборудование'
 weight: 3
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Угловой выправляющий аппарат относится к изделиям трубопроводной арматуры, предназначен для выправления потока жидкой среды на перед входом в рабочее колесо центробежного насоса.
+Используется для сокращения длины прямолинейных участков всасывающих трубопроводов и оптимизации компоновок технологических установок.
