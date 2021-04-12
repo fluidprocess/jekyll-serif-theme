@@ -1,11 +1,11 @@
 ---
-title: Team
+title: Оборудование
 layout: teams
 permalink: /team/
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Оборудование для жидких сред
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Мы специализируемся на производстве нестандартного технологического борудования для процессов поддержания температуры и фильтрации жидких сред, таких как вода различной степени подготовки, индустриальные, турбинные и гидравлические масла, нефтепродукты низкой вязкости, а также химические реагенты.
