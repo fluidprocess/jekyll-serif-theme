@@ -2,9 +2,8 @@
 title: "Жидкостные фильтры"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/Filter-nobg.png"
+image: "images/team/filter-inline.png"
 jobtitle: "Оборудование"
-linkedinurl: ""
 promoted: true
 weight: 2
 layout: team
