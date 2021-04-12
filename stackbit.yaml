@@ -11,7 +11,7 @@ pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
   - service.weight
-  - team.weight
+  - equipment.weight
 models:
   config:
     type: config
@@ -92,7 +92,7 @@ models:
               - type: string
                 name: permalink
           - type: object
-            name: team
+            name: equipment
             fields:
               - type: boolean
                 name: output
@@ -297,10 +297,10 @@ models:
         options:
           - label: services
             value: services
-  team:
+  equipment:
     type: page
-    label: Team
-    folder: _team
+    label: Equipment
+    folder: _equipment
     fields:
       - type: string
         name: title
@@ -335,12 +335,12 @@ models:
       - type: enum
         name: layout
         options:
-          - label: team
-            value: team
-  teams:
+          - label: equipment
+            value: equipment
+  equipments:
     type: page
-    label: Team Overview
-    file: team.md
+    label: Equipment Overview
+    file: equipment.md
     singleInstance: true
     fields:
       - type: string
@@ -365,5 +365,5 @@ models:
       - type: enum
         name: layout
         options:
-          - label: teams
-            value: teams
+          - label: equipments
+            value: equipments

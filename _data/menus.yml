@@ -3,7 +3,7 @@ main:
     url: "/services/"
     weight: 2
   - name: "Оборудование"
-    url: "/team/"
+    url: "/equipment/"
     weight: 3
   - name: "О Заводе"
     url: "/about/"

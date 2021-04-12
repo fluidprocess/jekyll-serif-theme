@@ -1,7 +1,7 @@
 ---
 title: Оборудование
-layout: teams
-permalink: /team/
+layout: equipments
+permalink: /equipment/
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

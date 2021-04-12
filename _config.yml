@@ -28,7 +28,7 @@ seo:
 collections:
   services:
     output: true
-  team:
+  equipment:
     output: true
 
 sass:

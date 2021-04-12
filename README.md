@@ -11,7 +11,7 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 
 - Jekyll 4.1
 - Services (Collection)
-- Team (Collection)
+- Equipment (Collection)
 - Features (Data)
 - SCSS
 - Responsive design
