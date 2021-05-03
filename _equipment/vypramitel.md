@@ -4,6 +4,7 @@ date: 2018-12-20T13:44:23+10:00
 draft: false
 image: 'images/equipment/vipramitel.png'
 jobtitle: 'Оборудование'
+promoted: true
 weight: 3
 layout: equipment
 ---
